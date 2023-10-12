@@ -1,16 +1,18 @@
 body {
     text-align: center;
-    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
     margin: 0;
     padding: 0;
 }
 
 button {
     background-color: rgb(165, 156, 156);
+    font-size: 50px;
 }
 
 input {
-
+    font-size: 50px;
 }
 
 button:hover {
@@ -18,7 +20,10 @@ button:hover {
 }
 
 #count-container {
-    
+    padding: 50px;
+    border-radius: 10px;
+    border-color: black;
+    margin: 20px auto;
 }
 
 #buttons {
