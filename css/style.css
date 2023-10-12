@@ -1,3 +1,30 @@
 body {
+    text-align: center;
+    font-size: larger;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    background-color: rgb(165, 156, 156);
+}
+
+input {
+
+}
+
+button:hover {
+    background-color: rgb(243, 231, 208);
+}
+
+#count-container {
     
+}
+
+#buttons {
+   color: rgb(117, 22, 17);
+}
+
+#count {
+
 }

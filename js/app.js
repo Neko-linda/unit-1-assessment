@@ -11,6 +11,12 @@ function updateCount() {
     countDisplay.textContent = count;
 }
 
-incrementButton.addEventListener()
+incrementButton.addEventListener("click", () => {
 
-decrementButton.addEventListener()
+})
+
+decrementButton.addEventListener("click", () => {
+    
+})
+
+// updateCount();
