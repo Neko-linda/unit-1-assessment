@@ -9,10 +9,20 @@ body {
 button {
     background-color: rgb(165, 156, 156);
     font-size: 50px;
+    border-radius: 10px;
+    border: none;
+    width: 80px;
+    box-shadow: 0 0 5px rgb(165, 156, 156);
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
 }
 
 input {
     font-size: 50px;
+    border-radius: 10px;
+    border-color: rgb(218, 205, 205);
+    border-width: 5px;
 }
 
 button:hover {
@@ -27,9 +37,9 @@ button:hover {
 }
 
 #buttons {
-   color: rgb(117, 22, 17);
+   margin: 20px;
 }
 
 #count {
-
+    font-size: 25px;
 }
