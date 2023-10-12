@@ -33,7 +33,7 @@ button:hover {
     background-color: rgb(243, 231, 208);
 }
 
-#count-container {
+#counter-container {
     padding: 50px;
     border-radius: 10px;
     border-color: black;
